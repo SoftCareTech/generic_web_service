@@ -1,7 +1,6 @@
 
 <?php
 
-
 $db_host="localhost:3606";  //// mysql port and serving address
 $db_user= "root"; // mysql user 
 $db_password="myPassword";    // user password 
