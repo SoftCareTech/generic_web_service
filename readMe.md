@@ -1,6 +1,6 @@
 Generic webservice
 
-his a generic web-service for MySQL database that allow user to insert and retrieve data from MySQL  This is target at easing developers work of writing web service for each mobile and desktop app to access the their database  The security of this is more than accessing the database directly with your credential on your compile app( A person Decompiling  your app will access your database credentials)
+This a generic web-service for MySQL database that allow user to insert and retrieve data from MySQL  This is target at easing developers work of writing web service for each mobile and desktop app to access the their database  The security of this is more than accessing the database directly with your credential on your compile app( A person Decompiling  your app will access your database credentials)
 
 Future development will include:
 	adding other databases
